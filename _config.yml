@@ -1,0 +1,23 @@
+name: mirrorsedge
+favicon: null
+layout_spectrum: 0.34164777491241693
+typography_spectrum: 0.08042473485693336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9393405672162771
+  lightness: 0.1808467241935432
+  saturation: 0.39428759599104524
+  rhythmicContrast: 0.05117448791861534
+purpose: []
